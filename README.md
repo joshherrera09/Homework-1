@@ -3,16 +3,16 @@
 ## Code Refractor
 
 ### The Repository
-My homework-1 repository contains both the HTML and CSS files for [Horiseon Social Solutions Services](https://joshherrera09.github.io/Homework-1/Code-refractor.html) As well as all of the images used for the webpage.
+My homework-1 repository contains both the HTML and CSS files for [Horiseon Social Solutions Services](https://joshherrera09.github.io/Homework-1/Code-refractor.html). As well as all of the images used for the webpage.
 
 #### Description
-We were given both HTMl and CSS files along with the images of the website and sought to refractor the code, to easier to read, follow and edit in the future.
+We were given both HTML and CSS files, along with the images of the website and sought to refractor the code, to make it easier to read, follow and edit in the future.
 
 With the code more concise and easier to read it will be more efficient for anyone working on the site in the future to add/make changes to the website.
 
 ### Notable Changes
 
-* Added smeantic elemtent sections to the HTML
+* Added semantic elemtent sections to the HTML
 * Added alt tags to all photos
 * Changed the title of the website to be more fitting and descriptive of the site
 * Made the CSS more concise and easier to read by grouping together multiple elements, instead of having a rule-set for each individual element
